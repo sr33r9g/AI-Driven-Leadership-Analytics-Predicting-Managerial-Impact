@@ -9,7 +9,7 @@ scale_model = joblib.load('./models/scale_model.pkl')
 
 
 
-st.title('Leadership Model')
+st.title('AI-Driven-Leadership-Analytics-Predicting-Managerial-Impact')
 
 manager_role = st.selectbox("Manager Role",['HR Manager','Team Lead', 'Project Manager',\
        'Operations Manager','Department Head'])
